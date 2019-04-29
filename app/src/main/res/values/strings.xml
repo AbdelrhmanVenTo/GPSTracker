@@ -8,6 +8,6 @@
     <string name="title_activity_maps">Map</string>
 
     <string name="google_API_key" translatable="false">
-        AIzaSyDfA241_E50Go9KUPCSjv7ex4sMdaNDG7A
+        PUT YOUR API KEY HERE
     </string>
 </resources>
