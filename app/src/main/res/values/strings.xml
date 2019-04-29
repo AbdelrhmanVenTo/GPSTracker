@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GPSTracker</string>
+    <string name="warning">warning</string>
+    <string name="message_request_location_permission">we need to access your location to show nearby coffe shops</string>
+    <string name="ok">ok</string>
+    <string name="cannot_access_location">please change your location . weak gps signal</string>
+    <string name="please_enable_gps">please enable gps</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="google_API_key" translatable="false">
+        AIzaSyDfA241_E50Go9KUPCSjv7ex4sMdaNDG7A
+    </string>
+</resources>
